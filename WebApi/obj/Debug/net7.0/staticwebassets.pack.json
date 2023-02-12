@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\files\\Loop_notes_2_.pdf",
+      "PackagePath": "staticwebassets\\files\\Loop_notes_2_.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\339A0944.JPG",
+      "PackagePath": "staticwebassets\\images\\339A0944.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\378b81db-55b3-450b-929e-fb9bbf4f472a.jpg",
+      "PackagePath": "staticwebassets\\images\\378b81db-55b3-450b-929e-fb9bbf4f472a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\Loop_notes_2_.pdf",
+      "PackagePath": "staticwebassets\\images\\Loop_notes_2_.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\bakimg.jpg",
+      "PackagePath": "staticwebassets\\images\\bakimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\bmw (2).jpg",
+      "PackagePath": "staticwebassets\\images\\bmw (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\cupcut.png",
+      "PackagePath": "staticwebassets\\images\\cupcut.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\f88b2227-58b4-42a8-94a6-6fd29458f295.jpg",
+      "PackagePath": "staticwebassets\\images\\f88b2227-58b4-42a8-94a6-6fd29458f295.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\github.png",
+      "PackagePath": "staticwebassets\\images\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\pngegg.png",
+      "PackagePath": "staticwebassets\\images\\pngegg.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp Victus\\Desktop\\Alif-Shop\\WebApi\\wwwroot\\images\\test.png",
+      "PackagePath": "staticwebassets\\images\\test.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
